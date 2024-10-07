@@ -1,6 +1,6 @@
 # Django Router
 
-A Django routing framework that allows you to register routes using decorators, eliminating the need for `urls.py`.
+A simple router library that allows registering django apps using decorators, eliminating the need for `urls.py`.
 
 ## Installation
 
