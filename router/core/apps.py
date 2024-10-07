@@ -2,7 +2,7 @@ from django.apps import AppConfig
 import importlib
 from .router import register_routes
 
-class YourFrameworkConfig(AppConfig):
+class DjangoRouterConfig(AppConfig):
     name = 'django-router'
 
     def ready(self):
